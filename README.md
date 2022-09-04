@@ -1,16 +1,16 @@
-### Hi there 👋
+## Opa, beleza? 🤓 Eu sou o João! 🥇
+- 🖥️ Atualmente atuo em uma ponte com o setor de desenvolvimento e banco de dados.
+- 📚 Estou cursando Segurança da informação na FATEC Americana.
+- ✉️ Contato: jvalentim019@gmail.com
 
-<!--
-**JoaoValentim019/JoaoValentim019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-valentim-7a83a119b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.valentimm/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoValentim019&show_icons=true&theme=dracula)
+
+
+
+
+💭 - "Algo tão pequeno como o voo de uma borboleta pode causar um tufão do outro lado do mundo.”
