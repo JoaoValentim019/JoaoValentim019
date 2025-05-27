@@ -1,6 +1,6 @@
 ## Opa, beleza? 🤓 Eu sou o João! 🥇
-- 🖥️ Atualmente atuo em uma ponte com o setor de desenvolvimento e banco de dados.
-- 📚 Estou cursando Segurança da informação na FATEC Americana.
+- 🖥️ Atualmente lidero o setor de QA.
+- 📚 Formado em Segurança da Informação
 - ✉️ Contato: jvalentim019@gmail.com
 
 
